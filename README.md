@@ -47,9 +47,9 @@ These credentials are only seeded prototype data and must not be used in product
 - `lib/api-zod` - generated validation schemas
 - `lib/db` - database package prepared for future persistent storage
 
-## Run in Replit
+## Run the Prototype
 
-Open the project in Replit and use its configured **Run** workflow. Replit starts the frontend and API services and routes them through the same preview URL.
+The current prototype is deployed on Replit. Open the live prototype link above to test the farmer and procurement-officer workflows.
 
 ## Run the checks locally
 
